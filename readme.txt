@@ -6,4 +6,4 @@ git tracks changes
 试试git remote remove origin命令移除远程库
 分支：
 git branch dev 新增
-git checkout dev 切换
+git checkout dev 切~~换
