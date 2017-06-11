@@ -4,3 +4,6 @@ git tracks changes
 此后每次本地提交后只要有必要就可以使用命令git push origin master推送最新修改
 
 试试git remote remove origin命令移除远程库
+分支：
+git branch dev 新增
+git checkout dev 切换
